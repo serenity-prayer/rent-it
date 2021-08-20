@@ -4,7 +4,6 @@ plugins {
 
 android {
     compileSdkVersion 30
-
     defaultConfig {
         applicationId "com.example.rentit"
         minSdkVersion 23
